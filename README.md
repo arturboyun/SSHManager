@@ -2,7 +2,7 @@
 
 ## Installation
 ```bash
-git clone https://github.com/arturboyun/SSHManager.git
+git clone git@github.com:arturboyun/SSHManager.git
 cd SSHManager
 pip install --user .
 ```
